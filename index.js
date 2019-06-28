@@ -24,5 +24,5 @@ function destructivelyRemoveFirstKitten (element) {
 }
 
 function appendKitten(element) {
-  
+  NewKitt = []
 }
