@@ -32,3 +32,7 @@ function prependKitten(element) {
   var newKittens = [element, ...kittens]
   return newKittens
 }
+
+function removeLastKitten(element) {
+  
+}
