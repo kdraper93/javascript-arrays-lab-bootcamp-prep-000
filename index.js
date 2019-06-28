@@ -23,7 +23,7 @@ function destructivelyRemoveFirstKitten (element) {
   return kittens
 }
 
-function appendKitten(element) {
+function appendKitten(kittens, element) {
   NewKitt = [...kittens, element]
   return NewKitt
 }
