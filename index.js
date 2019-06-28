@@ -38,3 +38,6 @@ function removeLastKitten(element) {
   kittens.length-1)
   return newKittens
 }
+function removeFirstKitten(element) {
+  var newKittens = 
+}
