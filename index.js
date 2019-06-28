@@ -12,3 +12,5 @@ function destructivelyPrependKitten(element) {
   kittens.unshift(element)
   return kittens
 }
+
+function destructivelyRemoveLastKitten
